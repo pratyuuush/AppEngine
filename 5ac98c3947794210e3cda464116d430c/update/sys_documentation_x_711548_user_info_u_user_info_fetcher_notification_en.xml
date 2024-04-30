@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="notification" label="Fetcher" language="en" table="x_711548_user_info_u_user_info_fetcher">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <help/>
+            <hint>Enable or disable notifications for this user ie. email, SMS etc</hint>
+            <label>Fetcher</label>
+            <language>en</language>
+            <name>x_711548_user_info_u_user_info_fetcher</name>
+            <plural>Notifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 15:55:49</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Fetcher</sys_name>
+            <sys_package display_value="User Info" source="x_711548_user_info">5ac98c3947794210e3cda464116d430c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Info">5ac98c3947794210e3cda464116d430c</sys_scope>
+            <sys_update_name>sys_documentation_x_711548_user_info_u_user_info_fetcher_notification_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 15:55:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

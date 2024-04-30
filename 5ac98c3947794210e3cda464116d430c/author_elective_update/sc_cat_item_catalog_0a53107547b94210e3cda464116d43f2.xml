@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="User Info Builder">5c5258f147b94210e3cda464116d437e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 16:11:27</sys_created_on>
+        <sys_id>0a53107547b94210e3cda464116d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.User Info Builder</sys_name>
+        <sys_package display_value="User Info" source="x_711548_user_info">5ac98c3947794210e3cda464116d430c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Info">5ac98c3947794210e3cda464116d430c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0a53107547b94210e3cda464116d43f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 16:11:27</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="User Info">5ac98c3947794210e3cda464116d430c</application>
+        <file_path/>
+        <instance_id>a3fefb3edb92f5944162684e13961925</instance_id>
+        <instance_name>dev208398</instance_name>
+        <name>sc_cat_item_catalog_0a53107547b94210e3cda464116d43f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="User Info Builder">5c5258f147b94210e3cda464116d437e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-26 16:11:27</sys_created_on><sys_id>0a53107547b94210e3cda464116d43f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.User Info Builder</sys_name><sys_package display_value="User Info" source="x_711548_user_info">5ac98c3947794210e3cda464116d430c</sys_package><sys_policy/><sys_scope display_value="User Info">5ac98c3947794210e3cda464116d430c</sys_scope><sys_update_name>sc_cat_item_catalog_0a53107547b94210e3cda464116d43f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-26 16:11:27</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1633824838</payload_hash>
+        <record_name>Service Catalog.User Info Builder</record_name>
+        <reverted_from/>
+        <source>9ec98c3947794210e3cda464116d4310</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 16:11:27</sys_created_on>
+        <sys_id>0a53107547b94210e3cda464116d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1b2d08d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 16:11:27</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8a5310754bb942102f57cff90aee81f4</update_guid>
+        <update_guid_history>8a5310754bb942102f57cff90aee81f4:-1633824838</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.User Info Builder">1863507547b94210e3cda464116d43e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-26 16:11:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0b63420258cd4f9686fb47361140d3c4</sys_id>
+        <sys_metadata>0a53107547b94210e3cda464116d43f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.User Info Builder</sys_name>
+        <sys_package display_value="User Info" source="x_711548_user_info">5ac98c3947794210e3cda464116d430c</sys_package>
+        <sys_parent display_value="User Info Builder">5c5258f147b94210e3cda464116d437e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="User Info">5ac98c3947794210e3cda464116d430c</sys_scope>
+        <sys_scope_delete display_value="">4188d9549a9940c0893780658a557359</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_0a53107547b94210e3cda464116d43f2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_0a53107547b94210e3cda464116d43f2">0a53107547b94210e3cda464116d43f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-26 16:11:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

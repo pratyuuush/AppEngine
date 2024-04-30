@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3ceac0b947794210e3cda464116d43e7" extends="sys_user" label="User Info Fetcher" max_length="40" name="x_711548_user_info_u_user_info_fetcher" type="collection">
+        <element label="Machine Required" max_length="40" name="machine_required" type="string"/>
+        <element label="Manager Email" max_length="40" name="manager_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Fetcher" max_length="255" name="ufetcher" type="integer"/>
+    </element>
+</database>
